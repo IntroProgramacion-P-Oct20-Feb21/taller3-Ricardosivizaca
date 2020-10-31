@@ -18,6 +18,8 @@ public class Ejercicio02 {
         // TODO code application logic here
         double resultado = Math.pow(10,2)+10;
         System.out.println(resultado);
+        
+        System.out.println(Math.pow(10,2)+10);
 
     }
     

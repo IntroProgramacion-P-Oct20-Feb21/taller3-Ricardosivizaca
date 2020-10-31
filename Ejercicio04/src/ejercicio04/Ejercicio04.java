@@ -16,6 +16,11 @@ public class Ejercicio04 {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        double Resultado = 20/(1+3)+2;
+        System.out.println(Resultado>=3);
+        boolean resultado2 = 20/(1+3)+2>=3;
+        System.out.println(resultado2);
+      
     }
     
 }
